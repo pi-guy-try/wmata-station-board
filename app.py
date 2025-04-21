@@ -4,10 +4,7 @@ import requests
 import os 
 cwd = os.path.dirname(os.path.abspath(__file__))
 
-
 app = Flask(__name__)
-
-
 
 def load_config():
     config = {}
@@ -28,7 +25,6 @@ backup_df = pd.read_excel(cwd+"/backup_station.xlsx")
 
 # Build list of stations for dropdown menu
 station_names = station_df["DestinationName"].dropna().drop_duplicates().sort_values().tolist()
-
 
 @app.route("/")
 def index():
@@ -93,7 +89,6 @@ def get_predictions():
             # If we still can't find a platform, skip it
             if not platform:
                 continue
-
 
             line = train.get("Line", "UNK")
             group = str(train.get("Group", "0")).strip()
