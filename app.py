@@ -20,8 +20,8 @@ API_KEY = config.get("API_KEY")
 DEFAULT_STATION = config.get("DEFAULT_STATION", "Wiehle-Reston East")
 
 # Load station layout and fallback patching data
-station_df = pd.read_excel(cwd+"/Station_List.xlsx")
-backup_df = pd.read_excel(cwd+"/backup_station.xlsx")
+station_df = pd.read_csv(cwd+"/Station_List.csv")
+backup_df = pd.read_csv(cwd+"/backup_station.csv")
 
 # Build list of stations for dropdown menu
 station_names = station_df["DestinationName"].dropna().drop_duplicates().sort_values().tolist()
