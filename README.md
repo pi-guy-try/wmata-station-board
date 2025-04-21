@@ -26,8 +26,8 @@ Built with:
 wmata-station-board/
 ├── app.py                     # Flask backend + WMATA API
 ├── config.txt                 # Your API key + default station
-├── Station_List.xlsx          # Mapping of stations, lines, platforms
-├── backup_station.xlsx        # Patching fallback for missing data, looking at you Brookland-CAU
+├── Station_List.csv          # Mapping of stations, lines, platforms
+├── backup_station.csv       # Patching fallback for missing data, looking at you Brookland-CAU
 ├── templates/
 │   └── index.html             # Frontend UI with flip logic
 ├── static/
@@ -68,7 +68,7 @@ API_KEY=your_wmata_api_key_here
 DEFAULT_STATION=Metro Center
 ```
 
-You can choose any station listed in `Station_List.xlsx`
+You can choose any station listed in `Station_List.csv`
 
 ### 5. Run the App
 
@@ -94,7 +94,7 @@ Then visit: http://localhost:5000.
 
 ## Station + Platform Mapping
 
-The `Station_List.xlsx` includes:
+The `Station_List.csv` includes:
 - `DestinationName`
 - `DestinationCode`
 - `StationCode`
