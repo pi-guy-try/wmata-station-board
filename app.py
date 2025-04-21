@@ -17,7 +17,7 @@ def load_config():
 
 config = load_config()
 API_KEY = config.get("API_KEY")
-DEFAULT_STATION = config.get("DEFAULT_STATION", "Wiehle-Reston East")
+DEFAULT_STATION = config.get("DEFAULT_STATION")
 
 # Load station layout and fallback patching data
 station_df = pd.read_csv(cwd+"/Station_List.csv")
