@@ -1,0 +1,299 @@
+﻿DestinationName,Group,Line,LocationCode
+Glenmont,1,RD,A01
+Shady Grove,2,RD,A01
+Glenmont,1,RD,A02
+Shady Grove,2,RD,A02
+Glenmont,1,RD,A03
+Shady Grove,2,RD,A03
+Glenmont,1,RD,A04
+Shady Grove,2,RD,A04
+Glenmont,1,RD,A05
+Shady Grove,2,RD,A05
+Glenmont,1,RD,A06
+Shady Grove,2,RD,A06
+Glenmont,1,RD,A07
+Shady Grove,2,RD,A07
+Glenmont,1,RD,A08
+Shady Grove,2,RD,A08
+Glenmont,1,RD,A09
+Shady Grove,2,RD,A09
+Glenmont,1,RD,A10
+Shady Grove,2,RD,A10
+Glenmont,1,RD,A11
+Shady Grove,2,RD,A11
+Glenmont,1,RD,A12
+Shady Grove,2,RD,A12
+Glenmont,1,RD,A13
+Shady Grove,2,RD,A13
+Glenmont,1,RD,A14
+Shady Grove,2,RD,A14
+Glenmont,1,RD,A15
+Shady Grove,2,RD,A15
+Glenmont,1,RD,B01
+Shady Grove,2,RD,B01
+Glenmont,1,RD,B02
+Shady Grove,2,RD,B02
+Glenmont,1,RD,B03
+Shady Grove,2,RD,B03
+Glenmont,1,RD,B04
+Shady Grove,2,RD,B04
+Glenmont,1,RD,B05
+Shady Grove,2,RD,B05
+Glenmont,1,RD,B06
+Shady Grove,2,RD,B06
+Glenmont,1,RD,B07
+Shady Grove,2,RD,B07
+Glenmont,1,RD,B08
+Takoma,2,RD,B08
+Glenmont,1,RD,B09
+Shady Grove,2,RD,B09
+Glenmont,1,RD,B10
+Shady Grove,2,RD,B10
+Shady Grove,1,RD,B11
+Shady Grove,2,RD,B11
+Glenmont,1,RD,B35
+Shady Grove,2,RD,B35
+Downtown Largo,1,SV,C01
+Downtown Largo,1,BL,C01
+New Carrollton,1,OR,C01
+Ashburn,2,SV,C01
+Franconia-Springfield,2,BL,C01
+Vienna/Fairfax-GMU,2,OR,C01
+Downtown Largo,1,SV,C02
+Downtown Largo,1,BL,C02
+Ashburn,2,SV,C02
+Franconia-Springfield,2,BL,C02
+New Carrollton,1,OR,C02
+Downtown Largo,1,SV,C03
+Downtown Largo,1,BL,C03
+Franconia-Springfield,2,BL,C03
+Ashburn,2,SV,C03
+Vienna/Fairfax-GMU,2,OR,C02
+Downtown Largo,1,BL,C04
+Downtown Largo,1,SV,C04
+Franconia-Springfield,2,BL,C04
+Ashburn,2,SV,C04
+New Carrollton,1,OR,C03
+Downtown Largo,1,SV,C05
+Downtown Largo,1,BL,C05
+Vienna/Fairfax-GMU,2,OR,C03
+Franconia-Springfield,2,BL,C05
+Ashburn,2,SV,C05
+Downtown Largo,1,BL,C06
+New Carrollton,1,OR,C04
+Franconia-Springfield,2,BL,C06
+Downtown Largo,1,BL,C07
+Vienna/Fairfax-GMU,2,OR,C04
+Mt Vernon Sq 7th St-Convention Center,1,YL,C07
+Franconia-Springfield,2,BL,C07
+Downtown Largo,1,BL,C08
+New Carrollton,1,OR,C05
+Huntington,2,YL,C07
+Franconia-Springfield,2,BL,C08
+Downtown Largo,1,BL,C09
+Vienna/Fairfax-GMU,2,OR,C05
+Mt Vernon Sq 7th St-Convention Center,1,YL,C08
+Franconia-Springfield,2,BL,C09
+Downtown Largo,1,BL,C10
+Franconia-Springfield,2,BL,C10
+Huntington,2,YL,C08
+Downtown Largo,1,BL,C11
+Franconia-Springfield,2,BL,C11
+Mt Vernon Sq 7th St-Convention Center,1,YL,C09
+Downtown Largo,1,BL,C12
+Huntington,2,YL,C09
+Franconia-Springfield,2,BL,C12
+Downtown Largo,1,BL,C13
+Mt Vernon Sq 7th St-Convention Center,1,YL,C10
+Franconia-Springfield,2,BL,C13
+Huntington,2,YL,C10
+Mt Vernon Sq 7th St-Convention Center,1,YL,C11
+Huntington,2,YL,C11
+Downtown Largo,1,SV,D01
+Downtown Largo,1,BL,D01
+Ashburn,2,SV,D01
+Franconia-Springfield,2,BL,D01
+Downtown Largo,1,SV,D02
+Downtown Largo,1,BL,D02
+Ashburn,2,SV,D02
+Franconia-Springfield,2,BL,D02
+Downtown Largo,1,BL,D03
+Downtown Largo,1,SV,D03
+Franconia-Springfield,2,BL,D03
+Ashburn,2,SV,D03
+Downtown Largo,1,BL,D04
+Downtown Largo,1,SV,D04
+Franconia-Springfield,2,BL,D04
+Ashburn,2,SV,D04
+Downtown Largo,1,BL,D05
+Downtown Largo,1,SV,D05
+Franconia-Springfield,2,BL,D05
+Ashburn,2,SV,D05
+Downtown Largo,1,BL,D06
+Downtown Largo,1,SV,D06
+Ashburn,2,SV,D06
+Franconia-Springfield,2,BL,D06
+Downtown Largo,1,BL,D07
+Downtown Largo,1,SV,D07
+Ashburn,2,SV,D07
+Franconia-Springfield,2,BL,D07
+Downtown Largo,1,SV,D08
+Downtown Largo,1,BL,D08
+Ashburn,2,SV,D08
+Franconia-Springfield,2,BL,D08
+New Carrollton,1,OR,D01
+Greenbelt,1,GR,E01
+Mt Vernon Sq 7th St-Convention Center,1,YL,C12
+Greenbelt,1,GR,E02
+Greenbelt,1,GR,E03
+Greenbelt,1,GR,E04
+Greenbelt,1,GR,E05
+Greenbelt,1,GR,E06
+Greenbelt,1,GR,E07
+Branch Ave,2,GR,E07
+Greenbelt,1,GR,E08
+Branch Ave,2,GR,E08
+Greenbelt,1,GR,E09
+Branch Ave,2,GR,E09
+Greenbelt,1,GR,E10
+Branch Ave,2,GR,E10
+Greenbelt,1,GR,F01
+Branch Ave,2,GR,F01
+Huntington,2,YL,C12
+Greenbelt,1,GR,F02
+Mt Vernon Sq 7th St-Convention Center,1,YL,C13
+Greenbelt,1,GR,F03
+Huntington,2,YL,C13
+Branch Ave,2,GR,F03
+Greenbelt,1,GR,F04
+Greenbelt,1,GR,F05
+Greenbelt,1,GR,F06
+Greenbelt,1,GR,F07
+Greenbelt,1,GR,F08
+Greenbelt,1,GR,F09
+Greenbelt,1,GR,F10
+Greenbelt,1,GR,F11
+Greenbelt,2,GR,F11
+Downtown Largo,1,SV,G01
+Downtown Largo,1,BL,G01
+Franconia-Springfield,2,BL,G01
+Ashburn,2,SV,G01
+Downtown Largo,1,SV,G02
+Downtown Largo,1,BL,G02
+Franconia-Springfield,2,BL,G02
+Ashburn,2,SV,G02
+Downtown Largo,1,SV,G03
+Downtown Largo,1,BL,G03
+Ashburn,2,SV,G03
+Franconia-Springfield,2,BL,G03
+Downtown Largo,1,BL,G04
+Downtown Largo,1,SV,G04
+Ashburn,2,SV,G04
+Franconia-Springfield,2,BL,G04
+Franconia-Springfield,1,BL,G05
+Downtown Largo,1,SV,G05
+Ashburn,2,SV,G05
+Franconia-Springfield,2,BL,G05
+Downtown Largo,1,BL,J02
+Franconia-Springfield,2,BL,J02
+Downtown Largo,1,BL,J03
+Downtown Largo,2,BL,J03
+Downtown Largo,1,SV,K01
+Ashburn,2,SV,K01
+Vienna/Fairfax-GMU,2,OR,D01
+Downtown Largo,1,SV,K02
+Ashburn,2,SV,K02
+New Carrollton,1,OR,D02
+Downtown Largo,1,SV,K03
+Vienna/Fairfax-GMU,2,OR,D02
+Ashburn,2,SV,K03
+Downtown Largo,1,SV,K04
+New Carrollton,1,OR,D03
+Ashburn,2,SV,K04
+Downtown Largo,1,SV,K05
+Ashburn,2,SV,K05
+Vienna/Fairfax-GMU,2,OR,D03
+New Carrollton,1,OR,D04
+Vienna/Fairfax-GMU,2,OR,D04
+New Carrollton,1,OR,D05
+Vienna/Fairfax-GMU,2,OR,D05
+Downtown Largo,1,SV,N01
+Ashburn,2,SV,N01
+Downtown Largo,1,SV,N02
+Ashburn,2,SV,N02
+Downtown Largo,1,SV,N03
+Ashburn,2,SV,N03
+Downtown Largo,1,SV,N04
+Ashburn,2,SV,N04
+Downtown Largo,1,SV,N06
+Ashburn,2,SV,N06
+Downtown Largo,1,SV,N07
+Ashburn,2,SV,N07
+Downtown Largo,1,SV,N08
+Ashburn,2,SV,N08
+Downtown Largo,1,SV,N09
+Ashburn,2,SV,N09
+Downtown Largo,1,SV,N10
+Ashburn,2,SV,N10
+Downtown Largo,1,SV,N11
+Ashburn,2,SV,N11
+Downtown Largo,1,SV,N12
+Downtown Largo,2,SV,N12
+Branch Ave,2,GR,E01
+Branch Ave,2,GR,E02
+Branch Ave,2,GR,E03
+Branch Ave,2,GR,E04
+Branch Ave,2,GR,E05
+Branch Ave,2,GR,E06
+Branch Ave,2,GR,F02
+Branch Ave,2,GR,F04
+Branch Ave,2,GR,F05
+Branch Ave,2,GR,F06
+Branch Ave,2,GR,F07
+Branch Ave,2,GR,F08
+Branch Ave,2,GR,F09
+Branch Ave,2,GR,F10
+New Carrollton,1,OR,D06
+Vienna/Fairfax-GMU,2,OR,D06
+New Carrollton,1,OR,D07
+Vienna/Fairfax-GMU,2,OR,D07
+New Carrollton,1,OR,D08
+Vienna/Fairfax-GMU,2,OR,D08
+New Carrollton,1,OR,D09
+Vienna/Fairfax-GMU,2,OR,D09
+New Carrollton,1,OR,D10
+Vienna/Fairfax-GMU,2,OR,D10
+New Carrollton,1,OR,D11
+Vienna/Fairfax-GMU,2,OR,D11
+New Carrollton,1,OR,D12
+Vienna/Fairfax-GMU,2,OR,D12
+New Carrollton,1,OR,D13
+Vienna/Fairfax-GMU,2,OR,D13
+Vienna/Fairfax-GMU,2,OR,K01
+Vienna/Fairfax-GMU,2,OR,K02
+Vienna/Fairfax-GMU,2,OR,K03
+Vienna/Fairfax-GMU,2,OR,K04
+Vienna/Fairfax-GMU,2,OR,K05
+Vienna/Fairfax-GMU,2,OR,K06
+Vienna/Fairfax-GMU,2,OR,K07
+New Carrollton,1,OR,K08
+New Carrollton,2,OR,K08
+New Carrollton,1,OR,K01
+New Carrollton,1,OR,K02
+New Carrollton,1,OR,K03
+New Carrollton,1,OR,K04
+New Carrollton,1,OR,K05
+New Carrollton,1,OR,K06
+New Carrollton,1,OR,K07
+Mt Vernon Sq 7th St-Convention Center,1,YL,C14
+Huntington,2,YL,C14
+Mt Vernon Sq 7th St-Convention Center,1,YL,C15
+Huntington,2,YL,C15
+Mt Vernon Sq 7th St-Convention Center,1,YL,E01
+Huntington,2,YL,E01
+Mt Vernon Sq 7th St-Convention Center,1,YL,F01
+Huntington,2,YL,F01
+Mt Vernon Sq 7th St-Convention Center,1,YL,F02
+Huntington,2,YL,F02
+Mt Vernon Sq 7th St-Convention Center,1,YL,F03
+Huntington,2,YL,F03
